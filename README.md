@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Juan Carlos Manquillo</h2>
+<h2 align="center">Hola 👋! Soy Juan Carlos Manquillo</h2>
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
@@ -15,8 +15,6 @@
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/react-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -39,10 +37,3 @@
  
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
