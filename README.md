@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Soy Juan Carlos Manquillo</h2>
+<h2 align="center">Hola Soy Juan Carlos Manquillo</h2>
 <h3 align="center">Software Developer</h3>
 
 <div align="center">
